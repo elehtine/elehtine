@@ -6,8 +6,8 @@
 - 🌱 I’m currently learning Haskell, Go and Rust
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=elehtine&show_icons=true&locale=en" alt="elehtine" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elehtine&show_icons=true&locale=en&layout=compact" alt="elehtine" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=elehtine&show_icons=true&locale=en" alt="elehtine" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=elehtine&local=en&layout=compact" />
 </p>
 
 
